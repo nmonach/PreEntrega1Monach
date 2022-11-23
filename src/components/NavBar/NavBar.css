@@ -1,0 +1,17 @@
+.section {
+    background-color: gray;
+    display: flex;
+    height: 80px;
+}
+a{
+    align-self: center;
+    padding: 10px;
+    font-style: italic;
+    font-size: 20px;
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+    font-style: initial;
+    font-size: medium;
+}
